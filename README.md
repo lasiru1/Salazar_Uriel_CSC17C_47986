@@ -1,2 +1,2 @@
 # Salazar_Uriel_CSC17C_47986
-C++ Data Structures
+RCC CSC17C C++ Data Structures Fall 2018
